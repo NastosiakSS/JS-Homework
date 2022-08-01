@@ -64,7 +64,7 @@ console.log(typeof c)*/
 */
 /*let name = prompt('Name?' , 'Svytoslaw')
 let middleName = prompt('Middle Name?' , 'Ruslanovych')
-let age = prompt('Age?' , '17')
+let age = +prompt('Age?' , '17')
 console.log(name)
 console.log(middleName)
 console.log(age)*/
