@@ -1,0 +1,13 @@
+.product-card{
+width:300px;
+}
+
+.product-title{
+    text-align: center;
+font-size: 30px;
+    color: darkslategrey;
+}
+
+.product-image{
+width: 100%;
+}
